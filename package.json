@@ -1,0 +1,19 @@
+{
+  "name": "drupal_test",
+  "version": "1.0.0",
+  "description": "drupal test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzawayukiko/drupal-test.git"
+  },
+  "author": "uzawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzawayukiko/drupal-test/issues"
+  },
+  "homepage": "https://github.com/uzawayukiko/drupal-test#readme"
+}
